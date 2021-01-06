@@ -30,7 +30,7 @@ def robo():
         pyautogui.click(1181, 571) 
     
 
-driver = webdriver.Chrome(r"C:\Users\verce\Downloads\chromedriver.exe")
+driver = webdriver.Chrome(r"PATH TO DRIVER LOCATION")
 url = "http://linkedin.com/"
 curl = "CUSTOM LINKEDIN PATH"
 
